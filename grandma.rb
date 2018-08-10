@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 
 if speak_to_grandma(phrase == phrase.upcase) 
-  return "I LOVE YOU TOO PUMPKIN!"
+  "I LOVE YOU TOO PUMPKIN!"
   else "HUH?! SPEAK UP, SONNY!"
 end 
   
